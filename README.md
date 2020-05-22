@@ -21,6 +21,8 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
+Thanks for cheking out, if you like this project give it a star and if you want to imrove more just fork it.
+
 You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
 
 ### Third party schematic symbols and footprints:
